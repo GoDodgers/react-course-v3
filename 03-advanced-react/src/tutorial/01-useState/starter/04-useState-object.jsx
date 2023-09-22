@@ -15,7 +15,7 @@ const UseStateObject = () => {
             age: "25",
             hobby: "camping"
         });
-        setPerson({ ...person, hobby: "" });
+        // setPerson({ ...person, hobby: "" });
     }
 
     return (
